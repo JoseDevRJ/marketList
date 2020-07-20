@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "MarketList",
+    "slug": "app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+        "package": "com.jose.marketList"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
