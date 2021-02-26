@@ -1,3 +1,3 @@
-# MarketList
-Lista de compras usando react-native
-O usuário vai adicionando novos itens na lista e o app vai calculando o preço,diminuindo do total que o usuário forneceu.
+# MarketList App
+Shopping list using react-native.
+The user will add new items to the list and the app will calculate the price, decreasing from the total that the user provided. 
